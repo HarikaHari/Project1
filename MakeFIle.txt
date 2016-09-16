@@ -1,0 +1,9 @@
+Steps to compile and run PPMRW.C using GCC compiler on Windows
+
+1) Navigate to the file path where PPMRW.C is located.
+2) Using the below command to compile PPMRW.c
+   Windows command: gcc PPMRW.c
+3) An output file with name 'a' will be automatically created by GCC compiler.
+4) To run the program pass on the command line arguments in the following order
+   Windows command: a <ImageType to convert> <Input file path> <Output file path>
+5) The program should be able to display the success or failure message.
